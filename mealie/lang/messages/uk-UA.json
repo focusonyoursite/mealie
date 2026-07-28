@@ -18,8 +18,18 @@
             "yield": "Вихід",
             "yields": "Вихід"
         },
-        "and-amount": "and {amount}",
-        "or-ingredient": "or {ingredient}"
+        "and-amount": "та {amount}",
+        "or-ingredient": "або {ingredient}",
+        "create-progress": {
+            "creating-recipe-with-ai": "Створення рецепту за допомогою ШI...",
+            "creating-recipe-from-transcript-with-ai": "Створення рецепту зі стенограми за допомогою ШІ...",
+            "creating-recipe-from-webpage-data": "Створення рецепту з даних веб-сторінки...",
+            "downloading-image": "Завантаження зображення...",
+            "downloading-video": "Завантаження відео...",
+            "extracting-recipe-data": "Вилучення даних рецепта...",
+            "fetching-webpage": "Отримання веб-сторінки...",
+            "transcribing-audio-with-ai": "Перетворення аудіо з ШІ..."
+        }
     },
     "mealplan": {
         "no-recipes-match-your-rules": "Немає рецептів, що відповідають вашим правилам"
